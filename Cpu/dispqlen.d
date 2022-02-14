@@ -11,7 +11,7 @@
  * It is not an indicatior of utilisation - the CPUs may or may not be
  * utilised when the dispatcher queue reports a length of zero.
  *
- * SEE ALSO:    uptime(1M)
+ * SEE ALSO:    uptime(8)
  *
  * COPYRIGHT: Copyright (c) 2005 Brendan Gregg.
  *

@@ -28,7 +28,7 @@
 #		fpo	filesystem page outs	Kbytes
 #		sy	system calls		number
 #
-# SEE ALSO:	vmstat(1M)
+# SEE ALSO:	vmstat(8)
 #
 # NOTES:
 #

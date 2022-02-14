@@ -26,7 +26,7 @@
 #		dtruss -n tar	# examine all processes called "tar"
 #		dtruss -f test.sh	# run test.sh and follow children
 #
-# See the man page dtruss(1M) for further details.
+# See the man page dtruss(8) for further details.
 #
 # SEE ALSO: procsystime    # DTraceToolkit
 #           dapptrace      # DTraceToolkit

@@ -31,7 +31,7 @@
  * BASED ON: /usr/demo/dtrace/pri.d
  *
  * SEE ALSO: DTrace Guide "profile Provider" chapter (docs.oracle.com)
- *           dispadmin(1M)
+ *           dispadmin(8)
  *
  * PORTIONS: Copyright (c) 2006 Brendan Gregg.
  *

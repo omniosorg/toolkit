@@ -31,7 +31,7 @@
  *  As this program does not use Kstat, there is no summary since boot line.
  *  Free RAM is both free free + cache free.
  *
- * SEE ALSO:	vmstat(1M)
+ * SEE ALSO:	vmstat(8)
  *
  * Copyright (c) 2015, Oracle and/or its affiliates. All rights reserved.
  *

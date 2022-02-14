@@ -19,7 +19,7 @@
 #
 # NOTE: There may be several PIDs with the same process name.
 #
-# SEE ALSO:     prstat(1M)
+# SEE ALSO:     prstat(8)
 #
 # INSPIRATION:  top(1) by William LeFebvre
 #

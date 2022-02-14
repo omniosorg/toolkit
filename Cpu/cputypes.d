@@ -16,7 +16,7 @@
  *		TYPE		CPU type
  *		FPU		floating point identifier types
  *
- * SEE ALSO:	psrinfo(1M)
+ * SEE ALSO:	psrinfo(8)
  *		/usr/include/sys/processor.h
  *
  * COPYRIGHT: Copyright (c) 2005 Brendan Gregg.

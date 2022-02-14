@@ -14,7 +14,7 @@
  * BASED ON: /usr/demo/dtrace/intr.d
  *
  * SEE ALSO: DTrace Guide "sdt Provider" chapter (docs.oracle.com)
- *           intrstat(1M)
+ *           intrstat(8)
  *
  * PORTIONS: Copyright (c) 2005, 2006 Brendan Gregg.
  *

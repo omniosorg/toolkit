@@ -1,7 +1,7 @@
 The following is a demonstration of the vmstat-p.d script,
 
 
-We run both vmstat-p.d and the original vmstat(1M) command at the same time
+We run both vmstat-p.d and the original vmstat(8) command at the same time
 to compare outputs,
 
  $ vmstat -p 1
