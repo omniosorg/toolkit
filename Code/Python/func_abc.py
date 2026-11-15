@@ -1,18 +1,18 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 
 import time
 
 def func_c():
-	print "Function C"	
+	print("Function C")
 	time.sleep(1)
 
 def func_b():
-	print "Function B"
+	print("Function B")
 	time.sleep(1)
 	func_c()
 
 def func_a():
-	print "Function A"
+	print("Function A")
 	time.sleep(1)
 	func_b()
 
